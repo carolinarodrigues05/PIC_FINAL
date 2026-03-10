@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/ist1109562/electrocap/"
+baseURL = https://carolinarodrigues.github.io/"
 languageCode = 'pt-pt'
 title = 'ElectroCap'
 theme = 'PaperMod'
